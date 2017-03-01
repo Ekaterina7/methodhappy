@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy", "happy\happy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sschislenia", "sschislenia\sschislenia.csproj", "{5FABCF0F-D048-4690-9F7C-A774B475F916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursia", "recursia\recursia.csproj", "{D020E474-2D98-4801-8202-3EEA3E68F369}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nok", "recursia\nok.csproj", "{D020E474-2D98-4801-8202-3EEA3E68F369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
